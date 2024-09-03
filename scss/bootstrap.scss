@@ -1,10 +1,19 @@
 /******* Customized Bootstrap ********/
 
-$primary: #F6466C;
-$secondary: #F28B00;
+$primary: #c96c5fd2;/* #ff9586 */
+$secondary: #2a557f;/* #2a557f #349fdd */
 $light: #F4F7FC;
 $dark: #222222;
-
+.logo{
+    width:20%;
+}
+.large  {
+    font-size: 1.25em;
+    color: #1b96d7;
+}
+.text-justify{
+    text-align: justify;
+}
 $font-family-base: 'Yantramanav', sans-serif;
 
 $headings-font-family: 'Roboto', sans-serif;
